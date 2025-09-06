@@ -1,0 +1,12 @@
+name: branchwater-web-MAGtest
+channels:
+    - conda-forge
+    - bioconda
+    - defaults
+dependencies:
+    - sourmash>=4.9.4,<5
+    - sourmash_plugin_branchwater>=0.9.14,<1
+    - sourmash_plugin_directsketch>=0.6.3,<1
+    - snakemake-minimal>=9,<10
+    - pandas
+
