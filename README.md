@@ -1,6 +1,6 @@
 # branchwater-web-MAGtest
 
-Associated Manuscript:
+Associated Manuscript will be added once published.
 
 Zenodo with required files (bins) and pre-computed results: 
 
