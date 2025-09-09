@@ -17,3 +17,6 @@ Here, we include the code and configuration used for each analysis.
 3. The `BAT` annotation workflow is in the main directory and uses the `BAT.snakefile` workflow file. Instructions for running can be found at the top of this file.
 
 4. The `sourmash` workflow and final aggregation across tools uses the `sourmash.snakefile` workflow file. Instructions for running can be found at the top of this file.
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17088951.svg)](https://doi.org/10.5281/zenodo.17088951)
