@@ -1,0 +1,44 @@
+Species,acc,assay_type,bioproject,biosample_link,cANI,collection_date_sam,containment,geo_loc_name_country_calc,lat_lon,organism,no bins,match level
+Acanthamoeba polyphaga mimivirus,SRR3458563,WGS,PRJNA319556,https://www.ncbi.nlm.nih.gov/biosample/SAMN04893728,1,NP,0.95,uncalculated,"[46.88460024,8.26996249]",synthetic metagenome,,unmatched
+Acanthamoeba polyphaga mimivirus,SRR3458562,WGS,PRJNA319556,https://www.ncbi.nlm.nih.gov/biosample/SAMN04893725,0.99,NP,0.82,uncalculated,"[46.88460024,8.26996249]",synthetic metagenome,,unmatched
+Acanthamoeba polyphaga mimivirus,ERR1992808,OTHER,PRJEB20198,https://www.ncbi.nlm.nih.gov/biosample/SAMEA103954398,0.98,NP,0.64,NP,NP,synthetic metagenome,x,NA
+Acanthamoeba polyphaga mimivirus,ERR2185279,OTHER,PRJEB20198,https://www.ncbi.nlm.nih.gov/biosample/SAMEA104351855,0.98,NP,0.64,NP,NP,synthetic metagenome,,species
+Aspergillus sydowii,SRR20950657,WGS,PRJNA841806,https://www.ncbi.nlm.nih.gov/biosample/SAMN28667236,1,NP,0.99,China,"""not collected""",metagenome,,genus
+Aspergillus sydowii,SRR20950787,WGS,PRJNA841806,https://www.ncbi.nlm.nih.gov/biosample/SAMN28667452,1,NP,0.94,China,"""not collected""",metagenome,,genus
+Aspergillus sydowii,SRR20285055,WGS,PRJNA858396,https://www.ncbi.nlm.nih.gov/biosample/SAMN29714458,1,4/1/17,0.9,China,"[23.65,113.66]",air metagenome,,genus
+Aspergillus sydowii,SRR14141927,WGS,PRJNA719719,https://www.ncbi.nlm.nih.gov/biosample/SAMN18614976,1,5/1/17,0.9,China,"[23.55,113.58]",metagenome,,genus
+Aspergillus sydowii,ERR10162411,WGS,PRJEB55812,https://www.ncbi.nlm.nih.gov/biosample/SAMEA111326210,0.99,NP,0.88,NP,NP,mouse metagenome,,genus
+Aspergillus sydowii,ERR2819892,WGS,PRJEB28871,https://www.ncbi.nlm.nih.gov/biosample/SAMEA4949424,0.99,6/23/16,0.88,Italy,NP,metagenome,,genus
+Aspergillus sydowii,SRR14842381,WGS,PRJNA738608,https://www.ncbi.nlm.nih.gov/biosample/SAMN19735704,0.99,7/1/19,0.85,India,"[17.4408,78.4025]",gut metagenome,,genus
+Aspergillus sydowii,SRR6144754,WGS,PRJNA412741,https://www.ncbi.nlm.nih.gov/biosample/SAMN07748057,0.99,9/15/16,0.78,uncalculated,"[11.34,142.33]",marine metagenome,,genus
+Aspergillus sydowii,SRR2243572,WGS,PRJNA286671,https://www.ncbi.nlm.nih.gov/biosample/SAMN04032870,0.99,5/19/15,0.75,USA,"[44.535545,-72.025155]",wastewater metagenome,,genus
+Aspergillus sydowii,ERR5083269,WGS,PRJEB42399,https://www.ncbi.nlm.nih.gov/biosample/SAMEA7776982,0.98,NP,0.67,Singapore,NP,metagenome,x,NA
+Aspergillus sydowii,SRR20285028,WGS,PRJNA858396,https://www.ncbi.nlm.nih.gov/biosample/SAMN29714483,0.97,10/1/16,0.56,Malaysia,"[6.01,102.45]",air metagenome,,unmatched
+Aspergillus sydowii,SRR6144753,WGS,PRJNA412741,https://www.ncbi.nlm.nih.gov/biosample/SAMN07748056,0.97,9/15/16,0.49,uncalculated,"[11.34,142.33]",marine metagenome,,unmatched
+Candida auris,SRR9016985,WGS,PRJNA657014,https://www.ncbi.nlm.nih.gov/biosample/SAMN11539824,0.99,NP,0.8,USA,"""not collected""",metagenome,,species
+Candida auris,SRR11734772,WGS,PRJNA631031,https://www.ncbi.nlm.nih.gov/biosample/SAMN14850470,0.99,NP,0.76,USA,"""not applicable""",human nasopharyngeal metagenome,,species
+Candida auris,SRR11734785,WGS,PRJNA631031,https://www.ncbi.nlm.nih.gov/biosample/SAMN14850477,0.99,NP,0.76,USA,"""not applicable""",human nasopharyngeal metagenome,,species
+Candida auris,SRR11734780,WGS,PRJNA631031,https://www.ncbi.nlm.nih.gov/biosample/SAMN14850464,0.99,NP,0.74,USA,"""not applicable""",human nasopharyngeal metagenome,,species
+Candida auris,SRR9016984,WGS,PRJNA657014,https://www.ncbi.nlm.nih.gov/biosample/SAMN11539823,0.98,NP,0.66,USA,"""not collected""",metagenome,,species
+Candida auris,SRR11734791,WGS,PRJNA631031,https://www.ncbi.nlm.nih.gov/biosample/SAMN14850471,0.98,NP,0.63,USA,"""not applicable""",human nasopharyngeal metagenome,,unmatched
+Cryptosporidium parvum,SRR17231405,WGS,PRJNA786578,https://www.ncbi.nlm.nih.gov/biosample/SAMN23704962,1,NP,0.97,Canada,"[49.89,-97.13]",human gut metagenome,,species
+Cryptosporidium parvum,SRR17238487,WGS,PRJNA786578,https://www.ncbi.nlm.nih.gov/biosample/SAMN23704962,1,NP,0.97,Canada,"[49.89,-97.13]",human gut metagenome,,species
+Cryptosporidium parvum,SRR5190255,WGS,PRJNA362629,https://www.ncbi.nlm.nih.gov/biosample/SAMN06244161,1,NP,0.93,Canada,"[53.54,-113.49]",bovine gut metagenome,,species
+Cryptosporidium parvum,SRR12217748,WGS,PRJNA645414,https://www.ncbi.nlm.nih.gov/biosample/SAMN15503826,1,NP,0.92,USA,"""not collected""",gut metagenome,,species
+Cryptosporidium parvum,SRR12217734,WGS,PRJNA645414,https://www.ncbi.nlm.nih.gov/biosample/SAMN15503839,0.99,NP,0.89,USA,"""not collected""",gut metagenome,,species
+Cryptosporidium parvum,SRR18691161,WGS,PRJNA774076,https://www.ncbi.nlm.nih.gov/biosample/SAMN27484400,0.99,3/1/19,0.88,China,"""not collected""",gut metagenome,,species
+Cryptosporidium parvum,SRR5190220,WGS,PRJNA362629,https://www.ncbi.nlm.nih.gov/biosample/SAMN06244196,0.99,NP,0.86,Canada,"[53.54,-113.49]",bovine gut metagenome,,unmatched
+Cryptosporidium parvum,SRR18691155,WGS,PRJNA774076,https://www.ncbi.nlm.nih.gov/biosample/SAMN27484406,0.99,3/1/19,0.83,China,"""not collected""",gut metagenome,,species
+Cryptosporidium parvum,SRR18691151,WGS,PRJNA774076,https://www.ncbi.nlm.nih.gov/biosample/SAMN27484409,0.99,3/1/19,0.83,China,"""not collected""",gut metagenome,,species
+Cryptosporidium parvum,SRR5190256,WGS,PRJNA362629,https://www.ncbi.nlm.nih.gov/biosample/SAMN06244160,0.99,NP,0.81,Canada,"[53.54,-113.49]",bovine gut metagenome,,unmatched
+Cryptosporidium parvum,ERR3333611,WGS,PRJEB29454,https://www.ncbi.nlm.nih.gov/biosample/SAMEA5618876,0.98,NP,0.7,NP,NP,metagenome,,species
+Cryptosporidium parvum,SRR18691152,WGS,PRJNA774076,https://www.ncbi.nlm.nih.gov/biosample/SAMN27484408,0.98,3/1/19,0.7,China,"""not collected""",gut metagenome,,unmatched
+Cryptosporidium parvum,SRR5190219,WGS,PRJNA362629,https://www.ncbi.nlm.nih.gov/biosample/SAMN06244197,0.98,NP,0.68,Canada,"[53.54,-113.49]",bovine gut metagenome,,species
+Cryptosporidium parvum,SRR22535178,OTHER,PRJNA907781,https://www.ncbi.nlm.nih.gov/biosample/SAMN31995120,0.98,7/1/21,0.66,Canada,"[51.04,-114.07]",bovine gut metagenome,x,NA
+Cryptosporidium parvum,SRR18691112,WGS,PRJNA774076,https://www.ncbi.nlm.nih.gov/biosample/SAMN27484423,0.98,3/1/19,0.66,China,"""not collected""",gut metagenome,,species
+Cryptosporidium parvum,SRR12959777,WGS,PRJNA672682,https://www.ncbi.nlm.nih.gov/biosample/SAMN16570650,0.98,NP,0.64,uncalculated,"""Not applicable""",mouse gut metagenome,,species
+Cryptosporidium parvum,SRR2105903,WGS,PRJNA287929,https://www.ncbi.nlm.nih.gov/biosample/SAMN03838916,0.97,NP,0.52,uncalculated,NP,synthetic metagenome,,unmatched
+Cryptosporidium parvum,SRR5831603,WGS,PRJNA394687,https://www.ncbi.nlm.nih.gov/biosample/SAMN07357523,0.97,7/6/09,0.48,Mali,"[12.39,-8]",human gut metagenome,,species
+Folsomia candida,SRR16797981,WGS,PRJNA777435,https://www.ncbi.nlm.nih.gov/biosample/SAMN22876302,0.98,NP,0.64,Spain,"[43.03,-8.08]",metagenome,,species
+Folsomia candida,SRR5098299,WGA,PRJNA357014,https://www.ncbi.nlm.nih.gov/biosample/SAMN06131393,0.95,6/24/12,0.36,Portugal,"[38.752078,-27.331303]",soil metagenome,,species
+Folsomia candida,SRR5098319,WGA,PRJNA357014,https://www.ncbi.nlm.nih.gov/biosample/SAMN06131393,0.95,6/24/12,0.34,Portugal,"[38.752078,-27.331303]",soil metagenome,,species
